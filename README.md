@@ -1,2 +1,4 @@
 # momentum
-My very first Github repo. 
+
+My very first Github repo.
+Hello Odin!
